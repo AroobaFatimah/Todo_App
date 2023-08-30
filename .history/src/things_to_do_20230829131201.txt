@@ -1,0 +1,13 @@
+1- Add registered users so that only registered users should be allowed to login ----- done -----
+2- Alarm buttons not working properly --------Done
+3- Alarm remind me later should work like it updates the deadline to +10 minutes
+3- Responsive ------done
+4- Try to add location as location and date-time as Alarm
+5- If the task is unchecked from the completed list move it back to incompleted tasks list ----- done ----- 
+6- There is extra alarm component, delete it later if not used ----- done -----
+7- There is extra login-signup page, delete it later if not used ----- done -----
+
+link match
+remind me later
+reminder + sound
+buttons styling

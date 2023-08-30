@@ -1,0 +1,5 @@
+1- Add registered users so that only registered users should be allowed to login
+2- Alarm buttons not working properly
+3- Responsive
+4- Try to add location as location and date-time as Alarm
+5- 

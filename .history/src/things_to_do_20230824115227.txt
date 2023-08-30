@@ -1,0 +1,6 @@
+1- Add registered users so that only registered users should be allowed to login
+2- Alarm buttons not working properly
+3- Responsive
+4- Try to add location as location and date-time as Alarm
+5- If the task is unchecked from the completed list move it back to incompleted tasks list 
+6- There is extra alarm component, delete it later if not used

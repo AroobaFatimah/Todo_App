@@ -1,0 +1,1 @@
+1- Add registered users so that only registered users should be allowed to 
